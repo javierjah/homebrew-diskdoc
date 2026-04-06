@@ -2,7 +2,7 @@ class Diskdoc < Formula
   desc "macOS disk cleanup CLI — find and remove hidden space hogs"
   homepage "https://github.com/javierjah/diskdoc"
   url "https://github.com/javierjah/diskdoc/archive/refs/tags/v3.0.0.tar.gz"
-  sha256 "3fec43467926a206cfa65a2f0215fe539983bdc4436ffc7e9c42def59e905f09"
+  sha256 "e75f96a3ddf38b347fa90a03cfb0ac22d881a9e37edcb2dbac1d5aa5b5fa2e4f"
   license "MIT"
 
   def install
